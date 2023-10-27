@@ -10,7 +10,7 @@ def displey_password(number_of_symbols):
 
 
 
-
+# тестовый комментарий
 
 
 
